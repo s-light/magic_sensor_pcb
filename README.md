@@ -1,6 +1,13 @@
-# XXXXXXXXX Board-Name / Title XXXXXXXXX
+<!--lint disable list-item-indent-->
+<!--lint disable list-item-bullet-indent-->
 
-some description..
+# magic sensor pcb
+
+Two I2C sensor on mini breakout board:
+- [APDS-9960](https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960)
+    Digital RGB, Ambient Light, Proximity and Gesture Sensor
+- [BME680](https://www.bosch-sensortec.com/bst/products/all_products/BME680)
+    gas, pressure, humidity and temperature
 
 
 
@@ -15,7 +22,7 @@ some description..
 </a>
 <br />
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
-    XXXXXXXXX Board-Name / Title XXXXXXXXX
+    magic sensor pcb
 </span> by
 <a xmlns:cc="http://creativecommons.org/ns#"
         href="https://github.com/s-light/"
