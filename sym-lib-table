@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Sensor_Optical)(type Legacy)(uri /home/stefan/mydata/github/kicad/kicad-symbols/Sensor_Optical.lib)(options "")(descr MOD))
+)
